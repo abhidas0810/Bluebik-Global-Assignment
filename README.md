@@ -17,6 +17,10 @@ The goal of this project is to develop a bank application that supports multiple
 - Transaction Module
 -	User Module
 
+##  Entity Relationship
+
+![Travel Management System (ER Diagram)](https://www.linkpicture.com/q/Bluebik-Global-Bank-App-ER-Diagram.png)
+
 ## Run Locally
 
 Clone the project
