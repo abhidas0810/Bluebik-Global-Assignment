@@ -1,5 +1,10 @@
 # Bluebik-Global-Bank-App
 
+<p align="center">
+  <img src="https://www.linkpicture.com/q/Banking-App.png"/>
+</p>
+
+
 ## About
 
 The goal of this project is to develop a bank application that supports multiple accounts with multiple users, and provides credit and debit functionality to users with appropriate balance limits. The application follows a modular approach with various components such as controllers, services, repositories, and models. The controllers provide Credit and Debit APIs to enable users to carry out credit and debit transactions. Meanwhile, the services are responsible for executing the necessary checks to ensure that the account balance remains within the permitted limits of 0 and 10 million for debit and credit operations, respectively. The repositories facilitate interaction with the database to store and retrieve account and user data, while the models define the entities for accounts and users, as well as their respective attributes.
